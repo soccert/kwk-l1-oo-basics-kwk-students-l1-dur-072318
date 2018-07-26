@@ -38,8 +38,9 @@ class Book
   end
   
   def turn_page
-  puts "flipping the page...wow, you read fast"
+    puts "Flipping the page...wow, you read fast!"
   end
+  
 end
 
 book = Book.new("Some Title")
